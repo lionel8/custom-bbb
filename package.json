@@ -12,16 +12,11 @@
     "rollup",
     "typescript"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lionel8/custom-bbb.git"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "author": "",
   "license": "MIT",
-  "browser": "dist/index.js",
   "devDependencies": {
     "rollup": "^2.39.0",
     "rollup-plugin-commonjs": "^10.1.0",
